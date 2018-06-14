@@ -3,7 +3,7 @@ Whiteboard practice for letter counting problem with timers on two different way
 
 ## An Epicodus Exercise
 
-#### By Brea Borlas
+#### By Brea Clark
 
 This is an exercise in coding from https://www.learnhowtoprogram.com/courses.
 
